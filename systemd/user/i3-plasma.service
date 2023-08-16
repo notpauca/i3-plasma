@@ -1,0 +1,10 @@
+[Unit] 
+Description=i3wm on KDE Plasma
+Before=plasma-workspace.target
+
+[Service]
+ExecStart=/usr/bin/i3
+Restart=on-failure
+
+[Install]
+WantedBy=plasma-workspace.target
