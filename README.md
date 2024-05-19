@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> All of this is soon going to be worthless, since X11 is being deprecated cuz it's straight up shit
+
 # i3-plasma
 Allows you to use the i3 window manager with KDE Plasma desktop environment
 
